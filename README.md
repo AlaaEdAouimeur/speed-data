@@ -51,8 +51,5 @@ Welcome to the thrilling world of speed dating analysis! Prepare to embark on an
 - Share your insights with love and charm, using clear explanations, captivating visualizations, and SQL queries.
 
 ## Submission
-Please submit your completed assignment by [submission deadline]. You can email the Jupyter Notebook, Python scripts, and documentation to [your email address]. If the files are too large to email, you can share them through a file-sharing service or repository (e.g., Google Drive, GitHub).
+Please submit your completed assignment by emailing the Jupyter Notebook, Python scripts, and documentation here. If the files are too large to upload, you can share them through a file-sharing service or repository (e.g., Google Drive, GitHub).
 
----
-
-Feel free to customize the README file based on your specific requirements or additional instructions for your friend. Make sure to include the necessary information and guidelines to help your friend successfully complete the assignment.
